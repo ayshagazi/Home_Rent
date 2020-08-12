@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493477608701",
+    "firebase_url": "https://home-rent-ef98b.firebaseio.com",
+    "project_id": "home-rent-ef98b",
+    "storage_bucket": "home-rent-ef98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493477608701:android:79b29dfd57c1710a665294",
+        "android_client_info": {
+          "package_name": "com.example.home_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493477608701-200u0m6hr0s06ij9cd40v7lgs798rc6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-EW8zh9rypdJM3C-fJT4WI3pZ80AT0L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493477608701-200u0m6hr0s06ij9cd40v7lgs798rc6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
